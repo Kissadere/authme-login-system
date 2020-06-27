@@ -9,7 +9,7 @@
     \/_______/ \/_____/ \/___/   \/_____/\/_____/
 
 */
-include '../register/includes/database.php';
+include './inc/database.php';
 
 
   // Variables
